@@ -1,0 +1,6 @@
+{
+  "name": "Rental Property Operations & Vacancy Intelligence Excel Toolkit",
+  "description": "An interactive, independent SaaS web application with excel workbook architecture for managing 32 high-end furnished properties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
