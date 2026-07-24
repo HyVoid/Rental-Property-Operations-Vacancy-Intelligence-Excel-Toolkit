@@ -9,10 +9,10 @@
 > ## **No signup. No installation. Free.**
 >
 > 🌐 **Open in Browser**  
-> Browser edition (HTML live demo)
+> Browser edition [HTML live demo](https://hyvoid.github.io/Rental-Property-Operations-Vacancy-Intelligence-Excel-Toolkit/)
 >
 > 📥 **Download Excel**  
-> Excel workbook (GitHub Release / Gumroad)
+> Excel workbook [download link](Rental_Operations_System.xlsx)
 
 ---
 
