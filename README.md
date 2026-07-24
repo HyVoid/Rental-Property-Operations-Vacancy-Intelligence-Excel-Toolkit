@@ -1,5 +1,3 @@
-# English | 简体中文
-
 # Rental Property Operations & Vacancy Intelligence Excel Toolkit
 
 ![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
@@ -20,15 +18,7 @@
 
 ## Screenshots
 
-### Browser Version
-
-<!-- screenshot: browser version -->
-
-*A browser-based operational dashboard showing live occupancy, vacancy alerts, turnover schedules, and portfolio KPIs.*
-
-### Excel Version
-
-<!-- screenshot: excel version -->
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ebff59f3-3fe0-48cc-b439-5151dc08e8e5" />
 
 *The Excel workbook providing booking management, automated property status calculation, vacancy intelligence, and executive dashboards.*
 
