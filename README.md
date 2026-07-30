@@ -12,9 +12,9 @@
 > [Browser edition](https://hyvoid.github.io/Rental-Property-Operations-Vacancy-Intelligence-Excel-Toolkit/)
 >
 > 📥 **Download Excel**  
-> [*google doc view](https://docs.google.com/spreadsheets/d/1QlPxdGOO9_kWoj1kr1qei1GB3RSujbmAy0V8QTkA9qM/edit?usp=sharing)
+> [*google doc view*](https://docs.google.com/spreadsheets/d/1QlPxdGOO9_kWoj1kr1qei1GB3RSujbmAy0V8QTkA9qM/edit?usp=sharing)
 >
-> [excel template purchase]()
+> [excel template purchase (coming soon)]()
 
 ---
 
