@@ -18,14 +18,6 @@
 
 ---
 
-## Screenshots
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ebff59f3-3fe0-48cc-b439-5151dc08e8e5" />
-
-*The Excel workbook providing booking management, automated property status calculation, vacancy intelligence, and executive dashboards.*
-
----
-
 ## What It Helps You Track
 
 - Real-time occupied units, vacant units, reserved units, and turnover readiness in one operational view.
