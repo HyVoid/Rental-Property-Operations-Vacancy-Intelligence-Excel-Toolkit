@@ -14,7 +14,7 @@
 > 📥 **Download Excel**  
 > [*google doc view*](https://docs.google.com/spreadsheets/d/1QlPxdGOO9_kWoj1kr1qei1GB3RSujbmAy0V8QTkA9qM/edit?usp=sharing)
 >
-> [excel template purchase](https://alexhasgreatestuff.gumroad.com/l/gnhizz)
+> [excel template purchase](https://alexhasgreatestuff.gumroad.com/l/gnhizz?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=rental-property-vacancy)
 
 ---
 
