@@ -6,7 +6,9 @@
 
 **Track occupancy, vacancy, upcoming turnovers, rental readiness, and operational priorities from one booking table—without rebuilding reports, installing software, or maintaining formulas. Available free in both Browser and Excel versions.**
 
-> ## **No signup. No installation. Free.**
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 >
 > 🌐 **Open in Browser**  
 > [Browser edition](https://hyvoid.github.io/Rental-Property-Operations-Vacancy-Intelligence-Excel-Toolkit/)
