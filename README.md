@@ -674,7 +674,7 @@ If you find this workbook useful, you may also be interested in other lightweigh
 - **Employee Performance & Annual Work Planning Toolkit** — Performance tracking and annual objective management.
 - **Manufacturing Cost & Unit Economics Toolkit** — Product costing, contribution margin, and production planning.
 - **Construction Estimate & Cost Tracking Toolkit** — Estimate preparation and project cost monitoring.
-- More projects are available through the GitHub profile and Gumroad store.
+- More projects are available through the GitHub profile and our [Website](https://www.theseusworkshop.com/).
 
 ---
 
