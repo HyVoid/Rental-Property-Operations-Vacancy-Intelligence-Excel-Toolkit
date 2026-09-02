@@ -14,7 +14,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 > [Browser edition](https://hyvoid.github.io/Rental-Property-Operations-Vacancy-Intelligence-Excel-Toolkit/)
 >
 > 📥 **Download Excel**  
-> [excel template purchase](https://alexhasgreatestuff.gumroad.com/l/gnhizz?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=rental-property-vacancy)
+> [excel template purchase](https://www.theseusworkshop.com/l/gnhizz?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=rental-property-vacancy)
 
 ---
 
